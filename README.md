@@ -1,4 +1,4 @@
-# Hi, I'm **Javeed Mohammadi** 👋
+# 🥇 Hi, I'm **Javeed Mohammadi** 
 
 Passionate about coding and technology, I am a **Full Stack Developer** with 3 years of practical experience, dedicated to transforming innovative ideas into functional and impactful solutions.
 
