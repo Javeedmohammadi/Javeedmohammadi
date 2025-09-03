@@ -1,6 +1,7 @@
-# 🥇 **Javeed Mohammadi** 
-Passionate about coding and technology, I am a Full Stack Developer with 3+ years of hands-on experience in building scalable web applications. I specialize in creating modern UI/UX, clean architectures, and efficient backend systems to transform innovative ideas into impactful solutions.
+# 🥇 **Javeed Mohammadi**  
+🚀 Full Stack Developer | Vue.js | React | Laravel  
 
+Passionate about coding and technology, I am a **Full Stack Developer** with 3+ years of hands-on experience in building scalable web applications. I specialize in creating **modern UI/UX, clean architectures, and efficient backend systems** to transform innovative ideas into impactful solutions.  
 
 ---
 
@@ -10,12 +11,11 @@ Passionate about coding and technology, I am a Full Stack Developer with 3+ year
 
 
 ---
-
 ## 🧠 About Me
-- 🎯 Focused on **clean code**, **reusable components**, and **great UX**.  
-- 🧩 Experienced in **frontend + backend** development.  
-- ⚡ Skilled in building **modern UI with React, Vue.js, and advanced UI frameworks**. 
-
+- 🎯 Passionate about **clean code, reusable components, and strong UX**.  
+- 🧩 Skilled in **frontend (Vue.js, React) + backend (Laravel, REST APIs)**.  
+- ⚡ Experienced in **modern UI frameworks** (shadcn-ui, Ant Design, Vuetify).  
+- 🔍 Focused on **scalability, performance, and best practices**.
 ---
 
 ## 🛠️ Tech Stack
@@ -59,10 +59,9 @@ Passionate about coding and technology, I am a Full Stack Developer with 3+ year
 ---
 
 ## ✍️ How I Work
-- I start with **clear requirements, wireframes, and a tiny demo**.  
-- I prefer **typed APIs, clean folder structure, and small PRs**.  
-- I document **decisions, trade-offs, and TODOs**.  
-
----
+- ✅ I start with **clear requirements, wireframes, and prototypes**.  
+- 📂 I prefer **typed APIs, scalable folder structures, and small PRs**.  
+- 📝 I document **decisions, trade-offs, and best practices**.  
+- 🤝 I value **team collaboration, code reviews, and knowledge sharing**.
 
 
