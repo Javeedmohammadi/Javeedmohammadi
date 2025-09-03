@@ -7,7 +7,7 @@ Passionate about coding and technology, I am a **Full Stack Developer** with 3 y
 ## 🔗 Quick Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javeed-mohammadi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033114823914)
-[![Email](https://img.shields.io/badge/Email-javeed31124@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:admin@gmail.com)
+
 
 ---
 
