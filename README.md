@@ -1,6 +1,6 @@
 # 🥇 **Javeed Mohammadi** 
+Passionate about coding and technology, I am a Full Stack Developer with 3+ years of hands-on experience in building scalable web applications. I specialize in creating modern UI/UX, clean architectures, and efficient backend systems to transform innovative ideas into impactful solutions.
 
-Passionate about coding and technology, I am a **Full Stack Developer** with 3 years of practical experience, dedicated to transforming innovative ideas into functional and impactful solutions.
 
 ---
 
